@@ -1,8 +1,8 @@
 'use strict';
 
-function roman2arabic() {
+function int2roman() {
 
 }
 
-module.exports = roman2arabic;
+module.exports = int2roman;
 
